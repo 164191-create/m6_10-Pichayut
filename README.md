@@ -3,3 +3,4 @@
 ขอต้อนรับสู่ portfolio <br>
 [ประวัติของฉัน](page01.md) <br>
 [ค้นหา](www.google.co.th)
+[mycods](first01.py)
